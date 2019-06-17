@@ -1,6 +1,11 @@
 <h3>INFO!</h3>
 <pre>
-Ich möchte euch darauf aufmerksam machen das dies NICHT mein Script ist! dieses Script muss man leider absofort bei dem Programmierer kaufen weshalb ich diese Version (v1.1.0) erneut hochlade.
+Ich möchte euch darauf aufmerksam machen das dies NICHT mein Script ist! 
+dieses Script muss man leider absofort bei dem Programmierer kaufen weshalb
+ich diese Version (v1.1.0) erneut hochlade.
+</pre>
+<pre>
+That not my resource! this resource is from Xabi https://rage.mp/profile/15952-xabi/
 </pre>
 
 # WiredPlayers RolePlay Server
