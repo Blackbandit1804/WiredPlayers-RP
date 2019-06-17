@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<meta>
+  <info name="WiredPlayers" author="Xabi" type="gamemode"/>
+  
+  <!-- Gamemode library -->
+  <script src="bin/Debug/netcoreapp2.0/WiredPlayers.dll" />
+
+  <!-- Database connection settings -->
+  <settings>
+    <setting name="host" value="127.0.0.1"/>
+    <setting name="username" value="gta"/>
+    <setting name="password" value="gta5server-WP"/>
+    <setting name="database" value="gtav"/>
+  </settings>
+
+</meta>

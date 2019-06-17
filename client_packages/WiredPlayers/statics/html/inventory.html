@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="../css/inventory.css">
+</head>
+<body>
+  <div class="inventory-wrapper">
+    <div id="identifier" class="inventory-header"></div>
+    <div id="inventory" class="inventory-container"></div>
+    <div class="inventory-footer">
+      <div id="item-options" class="inventory-options"></div>
+      <div class="inventory-exit" data-i18n="general.exit" onclick="mp.trigger('destroyBrowser');"></div>
+    </div>
+  </div>
+</body>
+
+<script src="../lib/jquery-3.1.1.min.js"></script>
+<script src="../lib/i18next.min.js"></script>
+<script src="../lib/jquery-i18next.min.js"></script>
+<script src="../lib/i18nextXHRBackend.min.js"></script>
+<script src="../js/inventory.js"></script>
+
+</html>
